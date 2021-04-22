@@ -1,2 +1,24 @@
 # pokestop
-A Loja virtual pokestop foi desenvolvida como uma experiência de compra pokemon, é uma simulação de como imagino uma loja virtual caso vivêssemos em um mundo pokemon. :)
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
